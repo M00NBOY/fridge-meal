@@ -13,7 +13,7 @@ error_msg = [
     {"name": "Glissez-déposez un ingrédient pour trouver une recette adaptée !"}
 ]
 await_product = [
-    {"name": "Glissez-déposez un ingrédient ici !"}
+    {"name": "Glissez-déposez un ingrédient ici !!"}
 ]
 products = []
 recipes = []
